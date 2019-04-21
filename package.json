@@ -1,6 +1,6 @@
 {
   "name": "node-wiring-pi",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Bindings to native wiringPi",
   "main": "index.js",
   "scripts": {
